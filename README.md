@@ -1,4 +1,4 @@
-[**Download**](https://github.com/RuneStar/name-cleanup-2014/releases)
+[**Download**](https://github.com/RuneStar/name-cleanup-2014/releases) (100 MB compressed, 600 MB uncompressed)
 
 Official News Posts:
  [**1**](http://services.runescape.com/m=news/character-name-clean-up--one-day-countdown-1)
