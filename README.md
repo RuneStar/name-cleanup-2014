@@ -8,3 +8,5 @@ Official News Posts:
  [**4**](http://services.runescape.com/m=news/character-name-clean-up--the-fourth-batch-1)
  [**5**](http://services.runescape.com/m=news/character-name-clean-up--the-fifth-batch-)
  [**6**](http://services.runescape.com/m=news/character-name-clean-up--the-final-batch)
+
+Currently missing names that started with numbers
