@@ -45,3 +45,8 @@ Official Downloads:
  0 1 2 3 4 5 6 7 8 9
 
 Currently missing names that started with numbers
+
+#### Username Rules
+* Max length: 12
+* Allowed characters: `a-z`, `0-9`, `_`
+* Cannot start with `_`
