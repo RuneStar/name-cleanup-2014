@@ -49,4 +49,4 @@ Currently missing names that started with numbers
 #### Username Rules
 * Max length: 12
 * Allowed characters: `a-z`, `0-9`, `_`
-* Cannot start with `_`
+* Cannot start or end with `_`
