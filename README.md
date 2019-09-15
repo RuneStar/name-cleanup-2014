@@ -1,6 +1,4 @@
-# RuneScape Name Clean-up 2014
-
-[![Discord](https://img.shields.io/discord/384870460640329728.svg?logo=discord)](https://discord.gg/G2kxrnU)
+# RuneScape Name Clean-up 2014 [![Download](https://img.shields.io/github/downloads/RuneStar/name-cleanup-2014/total.svg)](https://github.com/RuneStar/name-cleanup-2014/releases) [![Discord](https://img.shields.io/discord/384870460640329728.svg?logo=discord)](https://discord.gg/G2kxrnU)
 
 In 2014 RuneScape removed the character names of dormant accounts, making them available to the public.
 
